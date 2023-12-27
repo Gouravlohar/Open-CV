@@ -1,1 +1,4 @@
-Here we will learn how to draw with opencv
+Here we will learn how to draw with Open-CV
+How to Draw
+1)Line
+2)Plus Sign with Line
