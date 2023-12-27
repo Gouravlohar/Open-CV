@@ -1,4 +1,5 @@
 Here we will learn how to draw with Open-CV
-How to Draw
+How to Draw: -
 1)Line
 2)Plus Sign with Line
+3)Diamond Shape using Line function
