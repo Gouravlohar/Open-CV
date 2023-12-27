@@ -1,4 +1,4 @@
-#This is a code of Plus shape made using cv2.line() Line function in Open CV
+#This is the code of Plus shape made using cv2.line() Line function in Open CV
 import cv2
 import numpy as np
 
