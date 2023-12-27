@@ -1,4 +1,4 @@
-#This is a code of Diamond shape made using Line function in Open CV
+#This is the code of Diamond shape made using Line function in Open CV
 
 import cv2
 import numpy as np
