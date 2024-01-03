@@ -3,7 +3,7 @@ import numpy as np
 # Step by Step
 
 # Import Image
-image=cv2.imread("../resource/Images/shapes.png")
+image=cv2.imread("shapes.png")
 
 # Converting to Gray Image
 img_gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
