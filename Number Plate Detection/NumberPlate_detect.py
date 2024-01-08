@@ -1,6 +1,6 @@
 import cv2
 
-har=cv2.CascadeClassifier('haarcascades/haarcascade_russian_plate_number.xml')
+har=cv2.CascadeClassifier('haarcascade_russian_plate_number.xml')
 
 
 video=cv2.VideoCapture('demo.mp4')
