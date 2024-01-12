@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-img=cv2.imread("../resource/Images/cards2.jpg")
+img=cv2.imread("cards2.jpg")
 
 width,height=500,500
 
