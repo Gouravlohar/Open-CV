@@ -1,2 +1,2 @@
-Will Upload Here Open CV Codes in Easy Way 
+Open CV Codes in Easy Way 
  
