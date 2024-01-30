@@ -16,24 +16,23 @@ pts1 = []
 # Callback function for mouse events
 def mouse_callback(event, x, y, flags, param):
     if event == cv2.EVENT_LBUTTONDOWN:
-        # Append the clicked point to the list
+        
         pts1.append([x, y])
-        # Draw a circle at the clicked point for visualization
+        
         cv2.circle(img, (x, y), 5, (0, 255, 0), -1)
-        # Display the image with the clicked point
+        
         cv2.imshow("Image", img)
 
 # Set the window name
 cv2.namedWindow("Image")
 
-# Set the mouse callback function
+
 cv2.setMouseCallback("Image", mouse_callback)
 
-# Display the image and wait for the user to click points
+
 cv2.imshow("Image", img)
 cv2.waitKey(0)
 
-# Convert the list of points to a NumPy array
 pts1 = np.float32(pts1)
 
 # Define the destination points for perspective transformation
