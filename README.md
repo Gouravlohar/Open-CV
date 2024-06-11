@@ -33,7 +33,7 @@ This repository includes various projects and code examples demonstrating differ
 - Face recognition
 - Feature detection and matching
 - Camera calibration and 3D reconstruction
-- And more...
+- And more comming soon....
 
 Feel free to explore the projects and tutorials provided here. Each project may contain its own README file with detailed instructions on how to use and run the code.
 
